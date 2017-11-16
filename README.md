@@ -1,5 +1,5 @@
-# ML_assignments
-Homeworks from Deep learning course with Tensorflow
+# Deep Learning assignments
+Homeworks from the Deep learning course, implementations done with Tensorflow
 
 **HW1:** 
 
