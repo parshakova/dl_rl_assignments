@@ -1,5 +1,6 @@
 # Deep Learning assignments
 Homeworks from the Deep learning course, implementations done with Tensorflow
+Jupyter Notebook files contain code with explanations.
 
 **Hw1:** 
 
