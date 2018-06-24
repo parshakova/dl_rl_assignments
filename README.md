@@ -23,7 +23,7 @@ Back-propagation for 100-layer network, investigation of conditions under which 
 
 1. Q learning in the linear environment
 2. Q learning for the 4-legged spider
-3. Deep Q Netowrk for the Breakout environment
+3. Deep Q Network for the Breakout environment
 
 **Project3:** 
 
